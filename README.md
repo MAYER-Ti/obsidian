@@ -1,2 +1,1 @@
-# obsidian
-for obsidian
+# Репозитория для хранения заметок obsidian

@@ -8,3 +8,4 @@ https://www.eclipse.org/downloads/packages/release/2020-12/r/eclipse-ide-embedde
 Это ссылка на eclipse с предустановленным embeeded плагином
 https://github.com/xpack-dev-tools
 Это github страница разработчиков xPack , отсюда я установил пакеты #### [arm-none-eabi-gcc](https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/) - компилятор
+ [cmake](https://github.com/xpack-dev-tools/cmake-xpack/) - сборщик

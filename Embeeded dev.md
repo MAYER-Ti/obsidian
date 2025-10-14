@@ -9,3 +9,6 @@ https://www.eclipse.org/downloads/packages/release/2020-12/r/eclipse-ide-embedde
 https://github.com/xpack-dev-tools
 Это github страница разработчиков xPack , отсюда я установил пакеты #### [arm-none-eabi-gcc](https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/) - компилятор
  [cmake](https://github.com/xpack-dev-tools/cmake-xpack/) - сборщик
+ #### [qemu-arm](https://github.com/xpack-dev-tools/qemu-arm-xpack/) - эмулятор
+ #### [windows-build-tools](https://github.com/xpack-dev-tools/windows-build-tools-xpack/) - утилиты для windows типа make
+ 

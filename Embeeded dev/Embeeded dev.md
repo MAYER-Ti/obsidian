@@ -13,4 +13,4 @@ https://github.com/xpack-dev-tools
  #### [qemu-arm](https://github.com/xpack-dev-tools/qemu-arm-xpack/) - эмулятор
  #### [windows-build-tools](https://github.com/xpack-dev-tools/windows-build-tools-xpack/) - утилиты для windows типа make
  #### [openocd](https://github.com/xpack-dev-tools/openocd-xpack/) - отладчик
- 
+ .\qemu-system-arm.exe -machine xilinx-zynq-a9 -m 1024M -nographic -s -S -monitor stdio -serial tcp::5678,server,nowait
